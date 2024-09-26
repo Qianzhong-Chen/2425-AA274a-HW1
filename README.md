@@ -6,5 +6,3 @@ Python package dependencies for this assignment are listed in the `requirements.
 pip install -r requirements.txt
 ```
 
-## AA174A / CS137A / EE160A (Undergrad Section)
-Please ignore `P4_trajectory_optimization`.
